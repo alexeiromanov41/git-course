@@ -4,7 +4,7 @@ Crash course for Git
 
 https://git-scm.com/downloads
 
-git init
+git init\n
 Позволяет проинициализировать репозиторий в текущей папке
 git status
 Показывает текущий статус
